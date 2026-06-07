@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="AI.jpg" width="800" alt="AI Testing">
+  <img src="AI.jpg" height="400" width="800" alt="AI Testing">
 </p>
 
 # 🤖 AI Testing Test Suite
