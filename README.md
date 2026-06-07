@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/ai-testing-banner.png" width="700">
+  <img src="https://www.nist.gov/sites/default/files/images/2020/08/14/aihero.jpg" width="800" alt="AI Testing Banner">
 </p>
 
 # 🤖 AI Testing Test Suite
